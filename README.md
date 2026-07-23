@@ -17,3 +17,5 @@ This is a simple Landing Page created using HTML and CSS as part of the Oasis In
 
 ## Author
 Dharshini
+# OIBSIP
+Oasis Infobyte Internship Tasks
